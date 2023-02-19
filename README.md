@@ -1,6 +1,6 @@
 # Machine Learning For Everyone
 
-This repository was created to host material that I created for the Machine Learning for Everyone virtual course that I have taught. In fact, there was a great article about this [[1]](#1).
+This repository was created to host material that I created for the Machine Learning for Everyone virtual course that I have taught. In fact, there was a great article about this [[1]](#1), with me in a Jedi costume to boot!
 
 ## Register for the next course!
 - Follow this link
