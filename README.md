@@ -20,7 +20,7 @@ May the fourth be with you as you embark on this machine learning adventure!
 
 ## Repository Information
 
-This repository was created to host the course materials that I developed for the Machine Learning for Everyone virtual course that I have taught. In fact, there was a great article about this [^1^] from Year 1, with me in a Jedi costume to boot!
+This repository was created to host the course materials that I developed for the Machine Learning for Everyone virtual course that I have taught. In fact, there was a great article about this from Year 1 [1], with me in a Jedi costume to boot!
 
 ## Coming Soon!
 
