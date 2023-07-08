@@ -33,11 +33,11 @@ This repository was created to host the course materials that I developed for th
 
 ## Datasets
 
-- Check out the "Excel Files" folder to access the available datasets and examples related to the course.
+- Check out the [Datasets](./Datasets) folder to access the available datasets and examples related to the course.
 
 ## ML for Excel
 
-- Explore the "Excel Files" folder for resources and examples on applying machine learning concepts in Excel.
+- Explore the [XLS-for-ML](./XLS-for-ML) folder for resources and examples on applying machine learning concepts in Excel.
 
 ## Additional Info
 
