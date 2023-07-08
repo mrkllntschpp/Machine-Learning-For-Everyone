@@ -55,10 +55,6 @@ Have a really good idea about how to help? Want to work with me to see if your s
 
 - Email: mark.a.tschopp.civ at arl.mil
 
-## References
-
-[^1^]: Tschopp (2020). [Army hosts global AI, machine learning event](https://www.army.mil/article/246398/army_hosts_global_ai_machine_learning_event).
-
 ## Credits
 
 The "Machine Learning for Everyone" course was originally conceived by Mark Tschopp and has been developed over time based on valuable feedback from others. Thanks to everyone who has contributed along the way, supporting me even though I am not the foremost expert on Machine Learning.
@@ -66,3 +62,7 @@ The "Machine Learning for Everyone" course was originally conceived by Mark Tsch
 **Original Author:**
 
 - Mark Tschopp at [LinkedIn](https://www.linkedin.com/in/mark-tschopp/), [ORCID](https://orcid.org/0000-0001-8471-5035), [Google Scholar](https://scholar.google.com/citations?user=dg2m2WsAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Mark-Tschopp)
+
+## References
+
+[^1^]: Tschopp (2020). [Army hosts global AI, machine learning event](https://www.army.mil/article/246398/army_hosts_global_ai_machine_learning_event).
