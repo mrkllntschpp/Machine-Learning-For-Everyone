@@ -1,4 +1,5 @@
-# Machine Learning For Everyone
+# Machine Learning For Everyone: May The Fourth Be With You
+
 
 This repository was created to host material that I created for the Machine Learning for Everyone virtual course that I have taught. In fact, there was a great article about this [[1]](#1), with me in a Jedi costume to boot!
 
