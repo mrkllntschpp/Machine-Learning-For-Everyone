@@ -49,7 +49,7 @@ Green light! You are good to go!
 
 ### Contributing
 
-Have a really good idea about how to help? Want to work with me to see if your super-cool new machine learning algorithm could be coded up in Excel?
+Have a really good idea about how to help? Want to work with me to see if your super-cool new machine learning algorithm could be coded up in Excel?  Have some advice on how I should structure this for github better? Let me know. Thanks!
 
 ### Questions
 
