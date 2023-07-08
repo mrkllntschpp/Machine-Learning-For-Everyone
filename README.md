@@ -18,45 +18,54 @@ Throughout my journey, I've had the pleasure of teaching this virtual short cour
 
 May the fourth be with you as you embark on this machine learning adventure!
 
-This repository was created to host material that I created for the Machine Learning for Everyone virtual course that I have taught. In fact, there was a great article about this [[1]](#1) from Year 1, with me in a Jedi costume to boot!
+## Repository Information
 
-## Register for the next course!
-- Next "ML-4-Everyone: May The Fourth Be With You" course in 2024
-- No other upcoming courses scheduled at the moment
+This repository was created to host the course materials that I developed for the Machine Learning for Everyone virtual course that I have taught. In fact, there was a great article about this [^1^] from Year 1, with me in a Jedi costume to boot!
+
+## Coming Soon!
+
+- **One Minute Machine Learning: For the 'Somewhat Familiar' with ML Crowd**: A book based on the successful course is currently in progress. Stay tuned for bite-sized insights into machine learning concepts!
+
+## Register for the Next Course
+
+- **Next "ML-4-Everyone: May The Fourth Be With You" Course in 2024**: Join us for the next edition of the course in 2024. Don't miss out on the opportunity to dive into machine learning with a Star Wars twist.
+- No other upcoming courses scheduled at the moment.
 
 ## Datasets
-| Excel Files |    |
-| ----------- | ----------- |
-| Contents | Example |
+
+- Check out the "Excel Files" folder to access the available datasets and examples related to the course.
 
 ## ML for Excel
-| Excel Files |    |
-| ----------- | ----------- |
-| Contents | Example |
 
+- Explore the "Excel Files" folder for resources and examples on applying machine learning concepts in Excel.
 
-# Additional Info
-## Computational Requirements
+## Additional Info
+
+### Computational Requirements
+
 - Can you open Excel?
 - Can you enable the Solver Add-in?
 Green light! You are good to go!
 
-## Contributing
-Have a really good idea about how to help?  Want to work with me to see if your super-cool new Machine Learning algorithm could be coded up in Excel!  
+### Contributing
 
-## Questions
+Have a really good idea about how to help? Want to work with me to see if your super-cool new machine learning algorithm could be coded up in Excel?
+
+### Questions
+
 - Email: mark.a.tschopp.civ at arl.mil
 
 ## References
-<a id="1">[1]</a>
-Tschopp (2020).
-[Army hosts global AI, machine learning event](https://www.army.mil/article/246398/army_hosts_global_ai_machine_learning_event).
+
+[^1^]: Tschopp (2020). [Army hosts global AI, machine learning event](https://www.army.mil/article/246398/army_hosts_global_ai_machine_learning_event).
 
 ## Credits
 
-The ``Machine Learning for Everyone`` was originally conceived by Mark Tschopp, and has been developed over time based on lots and lots and lots of feedback from others. 
-Thanks to everyone who has given me feedback along the way, sticking with me even though I am not the foremost expert on Machine Learning.
+The "Machine Learning for Everyone" course was originally conceived by Mark Tschopp and has been developed over time based on valuable feedback from others. Thanks to everyone who has contributed along the way, supporting me even though I am not the foremost expert on Machine Learning.
 
-**Original Author**
+**Original Author:**
+
 - Mark Tschopp at [LinkedIn](https://www.linkedin.com/in/mark-tschopp/), [ORCID](https://orcid.org/0000-0001-8471-5035), [Google Scholar](https://scholar.google.com/citations?user=dg2m2WsAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Mark-Tschopp)
+```
 
+Feel free to modify this text further to align with your preferences and add any additional details you'd like to include.
