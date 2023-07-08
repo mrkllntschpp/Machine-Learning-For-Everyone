@@ -28,7 +28,7 @@ This repository was created to host the course materials that I developed for th
 
 ## Register for the Next Course
 
-- **Next "ML-4-Everyone: May The Fourth Be With You" Course in 2024**: Join us for the next edition of the course in 2024. Don't miss out on the opportunity to dive into machine learning with a Star Wars twist.
+- **Next "ML-4-Everyone: May The Fourth Be With You" Course in 2024**: Join us for the next edition of the course in 2024. Don't miss out on the opportunity to dive into machine learning with a Star Wars twist.  Wait, what? It falls on a Saturday!?!? Don't worry, we'll have this either before or after or both! 
 - No other upcoming courses scheduled at the moment.
 
 ## Datasets
