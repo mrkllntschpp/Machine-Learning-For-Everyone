@@ -35,9 +35,14 @@ This repository was created to host the course materials that I developed for th
 
 - Check out the [Datasets](./Datasets) folder to access the available datasets and examples related to the course.
 
-## ML for Excel
+## Excel for ML
 
 - Explore the [XLS-for-ML](./XLS-for-ML) folder for resources and examples on applying machine learning concepts in Excel.
+
+## Python for ML
+
+- Explore the [Python-for-ML](./Python-for-ML) folder for resources and examples on applying machine learning concepts in Python.
+- More to come!
 
 ## Additional Info
 
