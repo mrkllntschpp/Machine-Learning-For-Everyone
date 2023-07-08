@@ -66,6 +66,3 @@ The "Machine Learning for Everyone" course was originally conceived by Mark Tsch
 **Original Author:**
 
 - Mark Tschopp at [LinkedIn](https://www.linkedin.com/in/mark-tschopp/), [ORCID](https://orcid.org/0000-0001-8471-5035), [Google Scholar](https://scholar.google.com/citations?user=dg2m2WsAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Mark-Tschopp)
-```
-
-Feel free to modify this text further to align with your preferences and add any additional details you'd like to include.
