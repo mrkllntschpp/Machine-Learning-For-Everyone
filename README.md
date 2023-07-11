@@ -35,6 +35,10 @@ This repository was created to host the course materials that I developed for th
 - **Next "ML-4-Everyone: May The Fourth Be With You" Course in 2024**: Join us for the next edition of the course in 2024. Don't miss out on the opportunity to dive into machine learning with a Star Wars twist.  Wait, what? It falls on a Saturday!?!? Don't worry, we'll have this either before or after or both! 
 - No other upcoming courses scheduled at the moment.
 
+<p align="center">
+  <img src="starwars_aiml.jpg" alt="the scrolling screen from star wars with course intro" width="50%">
+</p>
+
 ## Datasets
 
 - Check out the [Datasets](./Datasets) folder to access the available datasets and examples related to the course.
@@ -57,9 +61,10 @@ This repository was created to host the course materials that I developed for th
 ## May The Course Be With You: Videos
 
 <div style="float: right; margin-left: 20px;">
-  <img src="starwars_jedi.jpg" alt="snapshots from a few of the Excel spreadsheets from the course" width="80%">
+  <img src="starwars_jedi.jpg" alt="snapshots from a few of the Excel spreadsheets from the course" width="100%">
 </div>
 
+### May The Fourth 2023
 "Machine Learning For Everyone: May The Fourth Be With You 2023", Day One:
 - [May The Fourth Be With You, 5/4/23, Kickoff Alex Kott](https://drive.google.com/file/d/1O82qn1QHX_M5SuWMgaQUsfrnEupdWuiJ/view?usp=sharing)
 - [May The Fourth Be With You, 5/4/23, Machine Learning Primer](https://drive.google.com/file/d/1ywtQtE4-n6Mc2M0Vj66Y2Mw1Skb6EzBE/view?usp=sharing)
@@ -76,7 +81,15 @@ This repository was created to host the course materials that I developed for th
 - [May The Fourth Be With You, 5/5/23, Sequence Models: RNN-GRU-LSTM](https://drive.google.com/file/d/14JaV28xUwamP-DQ6_R7U3QgIRXWdnMAO/view?usp=sharing)
 - [May The Fourth Be With You, 5/5/23, Autoencoders and GANs](https://drive.google.com/file/d/14JaV28xUwamP-DQ6_R7U3QgIRXWdnMAO/view?usp=sharing)
 
-Here are the videos from Year 1, May The Fourth, in 2021. The course has evolved quite a bit since then. Some of the kernel-based ML models were eliminated in favor of accelerating into neural networks much faster.
+### May The Fourth 2022
+Some awesome guest speakers. The recordings span multiple lectures - a morning and afternoon recording for each day.  Expanded to two days from Year 1 (one day).
+- [May The Fourth Be With You, 5/3/22, Part I](https://drive.google.com/file/d/1VVX9O6ktG8kqHOcGUcvs8VDovfHXL1LQ/view?usp=sharing)
+- [May The Fourth Be With You, 5/3/22, Part II](https://drive.google.com/file/d/1EM6e5YWTYW_7sukeYMUt9koZevR3X4ly/view?usp=sharing)
+- [May The Fourth Be With You, 5/4/22, Part I](https://drive.google.com/file/d/1oXLgbeGI_S065QSy0idA5YgKGo33oq0a/view?usp=sharing)
+- [May The Fourth Be With You, 5/4/22, Part II](https://drive.google.com/file/d/1D7_KvcsDF9FVXypf386Q0X_Hlr_nv-ZA/view?usp=sharing)
+
+### May The Fourth 2021
+Here are the videos from Year 1, May The Fourth, in 2021. The first time, this course ran from linear regression to logistic regression to kernel-base methods to vanilla neural networks to convolutional NN and sequence models --- perhaps way too much for one day! The course has evolved quite a bit since then. Some of the kernel-based ML models were eliminated in favor of accelerating into neural networks much faster.  One thing that was different was an ML panel session with early career scientists - kudos to all of them! It was a blast!
 - [May The Fourth Be With You, 5/4/21, YouTube Playlist](https://www.youtube.com/playlist?list=PLkVrqGRgZHO_hCvOhW9p7vm22GIiYVJ2w)
 
 ## Contributing
@@ -96,7 +109,7 @@ The "Machine Learning for Everyone" course was originally conceived by Mark Tsch
   <img src="starwars_feedback.png" alt="the course feedback from star wars May The Fourth in first year" width="50%">
 </div>
 
-Just a few comments:
+I've received hundreds of course feedback comments from anonymous surveys, from emails, and from course chat. These are used to improve the course over time. Just a sample of comments from Year 1 (hundreds more like this in Years 2 and 3):
 1. Quite frankly, it was the best and most entertaining presentation on this subject I have ever experienced.  Terrific job.
 1. <ins>**This course was the best ML/AI I have ever taken.**</ins> I do not know anything about Star Wars but the funny captions, comments and pictures made the training even more enjoyable.
 1. The content was intriguing and very eye-catchy. The instructor was excellent teacher. The concept was well-presented, very easy to understand at the surface level. Started with literally no background or training in ML, I have learned a lot more than I would ever had thought I can be. Thanks again for the great content and thanks for making me (generalized as someone who doesn't know anything about ML) understand and stay focused throughout the whole course. Thanks!
