@@ -2,6 +2,8 @@
   <img src="starwars_scrolling.jpg" alt="the scrolling screen from star wars with course intro" width="100%">
 </div>
 
+*If some crazy idea stays in my head for long enough, then there's no fighting it. I just say, ``Okay, let's go.''* (Jeff Bridges)
+
 # Machine Learning for Everyone: May The Fourth Be With You!
 
 Welcome to the "Machine Learning for Everyone: May The Fourth Be With You" course materials repository! In this repository, you'll find a collection of course materials designed to provide an entry point into the exciting world of machine learning, all with a Star Wars twist. Whether you're a beginner or someone looking to refresh your knowledge, this course aims to make machine learning concepts accessible and engaging.
@@ -10,17 +12,12 @@ Welcome to the "Machine Learning for Everyone: May The Fourth Be With You" cours
 
 Why should you spend time learning about machine learning from someone who just started down this path a few years ago? 
 
-Great question. Thank you for asking! Well, first off, maybe because I was like you a few months back. I vividly remember the process of learning machine learning, the intuition, the concepts, and the math. It's fresh in my mind, allowing me to provide insights into what concepts are essential and how they connect.
-
-To structure the course, I listed what I consider key machine learning concepts: regression, classification, linear regression, logistic regression, regularization, variance-bias tradeoff, loss/cost functions, activation functions, neural networks, dropout, convolutional neural networks, LSTMs, and more. I built a slide deck around these concepts, hoping for one slide per concept (which, I must admit, I miserably failed at). Nevertheless, the slide deck provides a comprehensive entry point into the world of machine learning.
-
-And guess what? Since I am an Army scientist, I chose an Army-related dataset to work with—ballistic penetration of armor. Well, upon second thought, all datasets were transformed into Star Wars-related datasets for this course—just because. No cat classification datasets or Boston housing price datasets here. Instead, we dive into the fascinating world of bullets being stopped by armor, all with a touch of Star Wars.
-
-I condensed seven months of online machine learning courses into a few sessions, carefully selecting the most relevant topics. I organized the course into three modules: machine learning basics, neural network basics, and neural network zoo. But wait, there's more! I added a few additional topics to cover a wider range of machine learning concepts. It's not everything, but it's a good start.
-
-Throughout my journey, I've had the pleasure of teaching this virtual short course on machine learning to thousands of people over the last few years. The positive feedback and enthusiasm from learners have motivated me to continue sharing my knowledge and insights with the wider community.
-
-May the fourth be with you as you embark on this machine learning adventure!
+> Great question. Thank you for asking! Well, first off, maybe because I was like you a few months back. I vividly remember the process of learning machine learning, the intuition, the concepts, and the math. It's fresh in my mind, allowing me to provide insights into what concepts are essential and how they connect.
+> To structure the course, I listed what I consider key machine learning concepts: regression, classification, linear regression, logistic regression, regularization, variance-bias tradeoff, loss/cost functions, activation functions, neural networks, dropout, convolutional neural networks, LSTMs, and more. I built a slide deck around these concepts, hoping for one slide per concept (which, I must admit, I miserably failed at). Nevertheless, the slide deck provides a comprehensive entry point into the world of machine learning.
+> And guess what? Since I am an Army scientist, I chose an Army-related dataset to work with—ballistic penetration of armor. No cat classification datasets or Boston housing price datasets here. Instead, we dive into the fascinating world of bullets being stopped by armor, all with a touch of Star Wars.
+> I condensed seven months of online machine learning courses into a few sessions, carefully selecting the most relevant topics. I organized the course into three modules: machine learning basics, neural network basics, and neural network zoo. But wait, there's more! I added a few additional topics to cover a wider range of machine learning concepts. It's not everything, but it's a good start.
+> Throughout my journey, I've had the pleasure of teaching this virtual short course on machine learning to thousands of people over the last few years. The positive feedback and enthusiasm from learners have motivated me to continue sharing my knowledge and insights with the wider community.
+>May the course be with you as you embark on this machine learning adventure!
 
 ## Repository Information
 
@@ -41,13 +38,15 @@ This repository was created to host the course materials that I developed for th
 
 ## Datasets
 
-- Check out the [Datasets](./Datasets) folder to access the available datasets and examples related to the course.
+Check out the [Datasets](./Datasets) folder to access the available datasets and examples related to the course.  This also needs some cleaning of various files before I share them on github.
 
 ## Excel for ML
 
-- Explore the [XLS-for-ML](./XLS-for-ML) folder for resources and examples on applying machine learning concepts in Excel.
-  - A Few Good Things to Know in Excel
-  - Just Bullets
+Explore the [XLS-for-ML](./XLS-for-ML) folder for resources and examples on applying machine learning concepts in Excel.  I have a lot more materials of machine learning algorithms in Excel, but want to clean them up to put the best versions on github.
+- [A Few Good Things to Know in Excel](https://github.com/mrkllntschpp/Machine-Learning-For-Everyone/blob/main/XLS-for-ML/A_Few_Good_Things_To_Know_In_Excel.xlsx)
+- [Just Bullets May The Fourth NN Example](https://github.com/mrkllntschpp/Machine-Learning-For-Everyone/blob/main/XLS-for-ML/JustBullets_MayTheFourth_NN_Example.xlsx)
+- [ML Cat and Dog Example](https://github.com/mrkllntschpp/Machine-Learning-For-Everyone/blob/main/XLS-for-ML/ML_CatDog_Example.xlsx)
+- [Machine Learning Pre- and Post-Test](https://github.com/mrkllntschpp/Machine-Learning-For-Everyone/blob/main/XLS-for-ML/ML_Test.xlsx)
 
 <div style="float: right; margin-left: 20px;">
   <img src="starwars_xls.jpg" alt="snapshots from a few of the Excel spreadsheets from the course" width="100%">
@@ -55,8 +54,7 @@ This repository was created to host the course materials that I developed for th
 
 ## Python for ML
 
-- Explore the [Python-for-ML](./Python-for-ML) folder for resources and examples on applying machine learning concepts in Python.
-- More to come!
+Explore the [Python-for-ML](./Python-for-ML) folder for resources and examples on applying machine learning concepts in Python. More to come! I haven't really fleshed this one out yet.
 
 ## May The Course Be With You: Videos
 
@@ -105,11 +103,14 @@ The "Machine Learning for Everyone" course was originally conceived by Mark Tsch
 
 ## Course Feedback
 
+>“A great demonstration of Army leadership in the field of machine learning, and an incredible job by Mark,” said Gen. John M. Murray (Ret.), 4-star commanding general of the Army Futures Command. “What started as a good idea, some initiative, and a desire to spread knowledge, was met with incredibly positive feedback. His short course showcased not only the challenges associated with building neural networks, but the Army’s efforts to harness these capabilities.”
+
+I've received hundreds of course feedback comments from anonymous surveys, from emails, and from course chat. These are used to improve the course over time. Just a sample of comments from Year 1 (hundreds more like this in Years 2 and 3):
+
 <div style="float: right; margin-left: 20px;">
   <img src="starwars_feedback.png" alt="the course feedback from star wars May The Fourth in first year" width="50%">
 </div>
 
-I've received hundreds of course feedback comments from anonymous surveys, from emails, and from course chat. These are used to improve the course over time. Just a sample of comments from Year 1 (hundreds more like this in Years 2 and 3):
 1. Quite frankly, it was the best and most entertaining presentation on this subject I have ever experienced.  Terrific job.
 1. <ins>**This course was the best ML/AI I have ever taken.**</ins> I do not know anything about Star Wars but the funny captions, comments and pictures made the training even more enjoyable.
 1. The content was intriguing and very eye-catchy. The instructor was excellent teacher. The concept was well-presented, very easy to understand at the surface level. Started with literally no background or training in ML, I have learned a lot more than I would ever had thought I can be. Thanks again for the great content and thanks for making me (generalized as someone who doesn't know anything about ML) understand and stay focused throughout the whole course. Thanks!
