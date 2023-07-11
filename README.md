@@ -75,29 +75,16 @@ This repository was created to host the course materials that I developed for th
 Here are the videos from Year 1, May The Fourth, in 2021. The course has evolved quite a bit since then. Some of the kernel-based ML models were eliminated in favor of accelerating into neural networks much faster.
 - [May The Fourth Be With You, 5/4/21, YouTube Playlist](https://www.youtube.com/playlist?list=PLkVrqGRgZHO_hCvOhW9p7vm22GIiYVJ2w)
 
-## Additional Info
-
-### Computational Requirements
-
-- Can you open Excel?
-- Can you enable the Solver Add-in?
-Green light! You are good to go!
-
-### Contributing
+## Contributing
 
 Have a really good idea about how to help? Want to work with me to see if your super-cool new machine learning algorithm could be coded up in Excel?  Have some advice on how I should structure this for github better? Let me know. Thanks!
 
-### Questions
-
-- Email: mark.a.tschopp.civ at arl.mil
-
 ## Credits
 
-The "Machine Learning for Everyone" course was originally conceived by Mark Tschopp and has been developed over time based on valuable feedback from others. Thanks to everyone who has contributed along the way, supporting me even though I am not the foremost expert on Machine Learning.
-
-**Original Author**
+The "Machine Learning for Everyone" course was originally conceived by Mark Tschopp and has been developed over time based on valuable feedback from others. Thanks to everyone who has contributed along the way, supporting me in this journey.
 
 - Mark Tschopp at [LinkedIn](https://www.linkedin.com/in/mark-tschopp/), [ORCID](https://orcid.org/0000-0001-8471-5035), [Google Scholar](https://scholar.google.com/citations?user=dg2m2WsAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Mark-Tschopp)
+- Email: mark.a.tschopp.civ at arl.mil
 
 ## Course Feedback
 
