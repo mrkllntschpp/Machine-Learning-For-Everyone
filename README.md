@@ -23,7 +23,9 @@ Why should you spend time learning about machine learning from someone who just 
 
 This repository was created to host the course materials that I developed for the Machine Learning for Everyone virtual course that I have taught. In fact, there was a great article about this from Year 1's version [^1^], with me in a Jedi costume to boot!
 
-## Coming Soon!
+## Machine Learning for Everyone: The Book!
+
+I know, I know, I know.  Another machine learning book??? Well, I am sorry to disappoint you, but I've decided that it might be fun to pull together this short course into a book form. Try to keep the concepts, the order of introduction, and the fun!  Incorporating all the characters and quotes and fun machine learning twists into book form.  Expecting to finish in 2023!
 
 - **One Minute Machine Learning: For the 'Somewhat Familiar' with ML Crowd**: A book based on the successful course is currently in progress. Stay tuned for bite-sized insights into machine learning concepts!
 
