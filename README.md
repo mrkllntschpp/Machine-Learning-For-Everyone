@@ -72,7 +72,11 @@ The "Machine Learning for Everyone" course was originally conceived by Mark Tsch
 
 - Mark Tschopp at [LinkedIn](https://www.linkedin.com/in/mark-tschopp/), [ORCID](https://orcid.org/0000-0001-8471-5035), [Google Scholar](https://scholar.google.com/citations?user=dg2m2WsAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Mark-Tschopp)
 
-**Course Feedback**
+## Course Feedback
+
+<div style="float: right; margin-left: 20px;">
+  <img src="starwars_feedback.png" alt="the course feedback from star wars May The Fourth in first year" width="50%">
+</div>
 
 Just a few comments:
 1. Quite frankly, it was the best and most entertaining presentation on this subject I have ever experienced.  Terrific job.
