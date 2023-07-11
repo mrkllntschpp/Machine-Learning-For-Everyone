@@ -42,11 +42,38 @@ This repository was created to host the course materials that I developed for th
 ## Excel for ML
 
 - Explore the [XLS-for-ML](./XLS-for-ML) folder for resources and examples on applying machine learning concepts in Excel.
+  - A Few Good Things to Know in Excel
+  - Just Bullets
+
+<div style="float: right; margin-left: 20px;">
+  <img src="starwars_xls.jpg" alt="snapshots from a few of the Excel spreadsheets from the course" width="100%">
+</div>
 
 ## Python for ML
 
 - Explore the [Python-for-ML](./Python-for-ML) folder for resources and examples on applying machine learning concepts in Python.
 - More to come!
+
+## May The Course Be With You: Videos
+
+"Machine Learning For Everyone: May The Fourth Be With You 2023", Day One:
+- [May The Fourth Be With You, 5/4/23, Kickoff Alex Kott](https://drive.google.com/file/d/1O82qn1QHX_M5SuWMgaQUsfrnEupdWuiJ/view?usp=sharing)
+- [May The Fourth Be With You, 5/4/23, Machine Learning Primer](https://drive.google.com/file/d/1ywtQtE4-n6Mc2M0Vj66Y2Mw1Skb6EzBE/view?usp=sharing)
+- [May The Fourth Be With You, 5/4/23, Machine Learning Basics](https://drive.google.com/file/d/1pMWRb5TkONRIrQyuxgPWUZHPow8BozFR/view?usp=sharing)
+- [May The Fourth Be With You, 5/4/23, Neural Network Basics](https://drive.google.com/file/d/1vmttRrLGZ4IToOm-MSYkZ-XyU3GV1H8v/view?usp=sharing)
+
+"Machine Learning For Everyone: Revenge of the Fifth 2023", Day Two:
+- [May The Fourth Be With You, 5/5/23, Neural Network Excel Tutorial](https://drive.google.com/file/d/1qSV6bG9qonQFTHdQyeH-hVIeLfLd8-et/view?usp=sharing)
+- [May The Fourth Be With You, 5/5/23, Kickoff Brian Sadler](https://drive.google.com/file/d/1Zcx0dl0qnffqOAhY4g9ROz4Yqbcvz575/view?usp=sharing)
+- [May The Fourth Be With You, 5/5/23, AIML Real World Examples](https://drive.google.com/file/d/1EIONXeg-W8nDw5jXWi0TPpjXG7VieND9/view?usp=sharing)
+- [May The Fourth Be With You, 5/5/23, To Encode or not to Encode](https://drive.google.com/file/d/1-nje0jFd_Utxbc_Rj0PxMK6UEARACgS6/view?usp=sharing)
+- [May The Fourth Be With You, 5/5/23, Convolutional Neural Networks](https://drive.google.com/file/d/13_MvbKJxO-0H-YCUVCBBA7W6KYZZ7dN4/view?usp=sharing)
+- [May The Fourth Be With You, 5/5/23, Natural Language Processing](https://drive.google.com/file/d/14JaV28xUwamP-DQ6_R7U3QgIRXWdnMAO/view?usp=sharing)
+- [May The Fourth Be With You, 5/5/23, Sequence Models: RNN-GRU-LSTM](https://drive.google.com/file/d/14JaV28xUwamP-DQ6_R7U3QgIRXWdnMAO/view?usp=sharing)
+- [May The Fourth Be With You, 5/5/23, Autoencoders and GANs](https://drive.google.com/file/d/14JaV28xUwamP-DQ6_R7U3QgIRXWdnMAO/view?usp=sharing)
+
+Here are the videos from Year 1, May The Fourth, in 2021. The course has evolved quite a bit since then. Some of the kernel-based ML models were eliminated in favor of accelerating into neural networks much faster.
+- [May The Fourth Be With You, 5/4/21, YouTube Playlist](https://www.youtube.com/playlist?list=PLkVrqGRgZHO_hCvOhW9p7vm22GIiYVJ2w)
 
 ## Additional Info
 
