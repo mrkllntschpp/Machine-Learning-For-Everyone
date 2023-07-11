@@ -1,4 +1,8 @@
-# Machine Learning for Everyone: May The Fourth Be With You
+<div style="float: right; margin-left: 20px;">
+  <img src="starwars_scrolling.jpg" alt="the scrolling screen from star wars with course intro" width="100%">
+</div>
+
+# Machine Learning for Everyone: May The Fourth Be With You!
 
 Welcome to the "Machine Learning for Everyone: May The Fourth Be With You" course materials repository! In this repository, you'll find a collection of course materials designed to provide an entry point into the exciting world of machine learning, all with a Star Wars twist. Whether you're a beginner or someone looking to refresh your knowledge, this course aims to make machine learning concepts accessible and engaging.
 
@@ -64,8 +68,33 @@ Have a really good idea about how to help? Want to work with me to see if your s
 
 The "Machine Learning for Everyone" course was originally conceived by Mark Tschopp and has been developed over time based on valuable feedback from others. Thanks to everyone who has contributed along the way, supporting me even though I am not the foremost expert on Machine Learning.
 
-**Original Author:**
+**Original Author**
 
 - Mark Tschopp at [LinkedIn](https://www.linkedin.com/in/mark-tschopp/), [ORCID](https://orcid.org/0000-0001-8471-5035), [Google Scholar](https://scholar.google.com/citations?user=dg2m2WsAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Mark-Tschopp)
+
+**Course Feedback**
+
+Just a few comments:
+1. Quite frankly, it was the best and most entertaining presentation on this subject I have ever experienced.  Terrific job.
+1. <ins>**This course was the best ML/AI I have ever taken.**</ins> I do not know anything about Star Wars but the funny captions, comments and pictures made the training even more enjoyable.
+1. The content was intriguing and very eye-catchy. The instructor was excellent teacher. The concept was well-presented, very easy to understand at the surface level. Started with literally no background or training in ML, I have learned a lot more than I would ever had thought I can be. Thanks again for the great content and thanks for making me (generalized as someone who doesn't know anything about ML) understand and stay focused throughout the whole course. Thanks!
+1. The course tackled an astronomical amount of information, collectively known as machine learning, with well-articulated simplicity and clarity. This one-day course seamlessly presented an overview of ML topics with stimulating visuals and graphics that would normally take hundreds of textbook pages, weeks-long online courses, and entire college semesters to cover!
+1. This was so great! <ins>**If I had to give it a score, I would give it a 10 out of 9.**</ins> Thank you for putting this material out there and making it approachable for people who don't have backgrounds in linear algebra or other advanced math. The pacing of the material was great and sending out the excel spreadsheets in advance was highly conducive to helping me follow along during the lesson. […] Thanks for making something I once thought was unattainable actually seem much more accessible!
+1. I loved the Star Wars theme!
+1. “Excellent training! Kept me engaged. <ins>**Mark has renewed my long-forgotten love for math.**</ins> I can't wait to learn more about ML!”
+1. <ins>**As a self-proclaimed Star Wars nerd, I was really looking forward to the Star Wars-themed machine learning course. I absolutely loved the way the memes/quotes/references were incorporated in a way that both held my attention throughout the course and made learning the concepts infinitely more enjoyable.**</ins> Additionally, the instructor's enthusiasm was very contagious!  As for the material itself, I really appreciated the way it was presented--especially the Excel-based examples. Often times, ‘machine learning’ is presented as something that requires tons of specialized programming knowledge which makes learning the basics a somewhat intimidating undertaking. It was refreshing to see excel being used for the smaller data sets with an explanation of how python, Matlab, etc. is needed to larger data sets. To me, that makes the content a lot more ‘relatable.’ I also really liked the ‘Jedi Council’ session at the end. It was a really clever way to put the content in ‘real-world’ context.
+1. I thought it was an excellent ML short course.  The Star Wars theme added color and interest in the delivery.  […]  <ins>**THANK YOU for going out of your way to educate the workforce.  This was great.**</ins>
+1. The course and the panel were both fantastic! Thank you so much for offering the course to everyone.
+1. There was a lot of math for someone who never took linear algebra, but the very thoughtful and fun Star Wars theme MORE than made up for it. <ins>**As a new hire in a DoD research lab, this course should be used as a model for how to teach non-experts about your field – I would attend these all the time if they were all half this good!**</ins>
+1. "Truly excellent session!  You found the perfect balance between not enough math/theory and too much.  Goldilocks level of perfection. I really enjoyed the Star Wars theme too - it made for great levity additions."
+1. From the perspective of someone who is just starting to dive into the world of machine learning, I thought this course was great! Mark was knowledgeable, well-organized, and clearly enthusiastic about the material. I appreciate the use of Star Wars to help keep things fun and engaging! <ins>**I also liked that Mark chose to demonstrate neural network building in Excel rather than Python or Matlab. It was an intuitive way to visualize the process without getting bogged down by syntax and esoteric functions, even if Excel would not be the most practical way to develop neural networks for a real application.**</ins> […] Overall though, this was a great experience, and I would definitely recommend this course to others!
+1. Absolutely awesome.  <ins>**The instructor is a "natural teacher", someone who is just born to teach.**</ins>  […] Truly awesome talent, presentation, pedagogy, everything.
+1. The course is super! […] The presentation slides are extremely well written and organized. […] The instructor is great! A lot of us benefit from this wonderful course. Thank you!"
+1. <ins>**Wow! Course was fantastic. I was pretty intimidated by the whole idea of machine learning beforehand but this primer really helped take the edge off.**</ins> I'm the kind of person who needs to be able to look under the hood of tools before I'm comfortable using them and the way Mark unpacked the equations and approaches used in the various methods was great!
+1. Dr. Tschopp was an excellent instructor!!
+1. This course was outstanding!
+1. The various memes were of course excellent :) Thank you so much for doing this!
+1. Overall, a fantastic job at this course, but I feel like it needed more star wars references (joking... maybe). I now think that Excel is probably the best/most informative way to represent these algorithms on the smaller scale. I think it improved how easily I understood the concepts.
+
 
 [^1^]: Tschopp (2020). [Army hosts global AI, machine learning event](https://www.army.mil/article/246398/army_hosts_global_ai_machine_learning_event).
