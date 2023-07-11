@@ -56,6 +56,10 @@ This repository was created to host the course materials that I developed for th
 
 ## May The Course Be With You: Videos
 
+<div style="float: right; margin-left: 20px;">
+  <img src="starwars_jedi.jpg" alt="snapshots from a few of the Excel spreadsheets from the course" width="80%">
+</div>
+
 "Machine Learning For Everyone: May The Fourth Be With You 2023", Day One:
 - [May The Fourth Be With You, 5/4/23, Kickoff Alex Kott](https://drive.google.com/file/d/1O82qn1QHX_M5SuWMgaQUsfrnEupdWuiJ/view?usp=sharing)
 - [May The Fourth Be With You, 5/4/23, Machine Learning Primer](https://drive.google.com/file/d/1ywtQtE4-n6Mc2M0Vj66Y2Mw1Skb6EzBE/view?usp=sharing)
