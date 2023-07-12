@@ -1,1 +1,11 @@
+# XLS Files
 
+I'll give a little background into the files here:
+- **A_Few_Good_Things_To_Know_In_Excel.xlsx** <br>
+  This XLSX file is the pre-work for the Star Wars ML course that I give. I dive right in! While the course gets into ML concepts, I use Excel to show all the algorithms, but the movies showing me doing these ML algorithms in Excel goes by *awful quick* for the uninitiated.  So I created an Excel spreadsheet with a lot of exercises, exposing learners to the following Excel functionality: matrix multiplication, dynamic arrays, variable naming, optimization, kernel functions, image filters, etc.  I tried to include step-by-step instructions as well.  Enjoy!
+- **JustBullets_MayTheFourth_NN_Example.xlsx** <br>
+  This XLSX file is used for an *optional* tutorial session that I usually do in the afternoon after introducing neural networks.  It uses a simple classification dataset and we perform logistic regression, regularization, cross-validation, and neural networks with 1- and 2-hidden layers in Excel. Very simple examples, but it shows the gist of how to do a neueral network in Excel.  I've colorized the weights and biases so that you can see which input features were most important, which is easy for logistic regression and gets harder to trace the logic for 2 hidden layers.  This is great for showing how *deeeep* neural networks become less explainable in terms of how parameters relate to initial feature importance.
+- **ML_CatDog_Example.xlsx** <br>
+  This XLSX file is used for the ML Primer portion. When I realized that jumping straight into linear regression lost some people, I decided to step back and create a little toy problem first.  I found that this helped ease everyone into linear regression and linear algebra. I also introduced loss function (mean squared error), cost function, optimization, input/outputs ($X$ and $Y$), model parameters ($\theta$), training/test sets, etc.
+- **ML_Test.xlsx** <br>
+  This XLSX file contains the questions for the pre- and post-test for the course.  If you want it scored, send the completed XLSX sheet to ml101@army.mil and I'll shoot back the scores!  I'm collecting scores from this test to come up with a "common mis-ML-concepts-ions" list.  There are a lot of true/false statements that are missed way more than random! 
