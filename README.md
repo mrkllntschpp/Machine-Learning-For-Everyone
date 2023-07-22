@@ -4,7 +4,7 @@
 
 *If some crazy idea stays in my head for long enough, then there's no fighting it. I just say, ``Okay, let's go.''* (Jeff Bridges)
 
-# Machine Learning for Everyone: May The Fourth Be With You!
+# Machine Learning for Everyone: May The 4th Be With You!
 
 Welcome to the "Machine Learning for Everyone: May The Fourth Be With You" course materials repository! In this repository, you'll find a collection of course materials designed to provide an entry point into the exciting world of machine learning, all with a Star Wars twist. Whether you're a beginner or someone looking to refresh your knowledge, this course aims to make machine learning concepts accessible and engaging.
 
