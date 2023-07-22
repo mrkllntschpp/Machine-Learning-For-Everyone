@@ -66,7 +66,7 @@ Explore the [Python-for-ML](./Python-for-ML) folder for resources and examples o
 
 ### May The Fourth 2023
 "Machine Learning For Everyone: May The Fourth Be With You 2023", Day One:
-- [May The Fourth Be With You, 5/4/23, Kickoff Alex Kott](https://drive.google.com/file/d/1O82qn1QHX_M5SuWMgaQUsfrnEupdWuiJ/view?usp=sharing)
+- May The Fourth Be With You, 5/4/23, Kickoff Alex Kott (recording not available)
 - [May The Fourth Be With You, 5/4/23, Machine Learning Primer](https://drive.google.com/file/d/1ywtQtE4-n6Mc2M0Vj66Y2Mw1Skb6EzBE/view?usp=sharing)
 - [May The Fourth Be With You, 5/4/23, Machine Learning Basics](https://drive.google.com/file/d/1pMWRb5TkONRIrQyuxgPWUZHPow8BozFR/view?usp=sharing)
 - [May The Fourth Be With You, 5/4/23, Neural Network Basics](https://drive.google.com/file/d/1vmttRrLGZ4IToOm-MSYkZ-XyU3GV1H8v/view?usp=sharing)
